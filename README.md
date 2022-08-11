@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umairchaudhary
-- 👀 I’m interested in mobile application development which is i'm learning currently
-- 🌱 I’m currently learning mobile app development (react-native)
-- 💞️ I’m looking to collaborate on react native projects
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m currently Data Analysis and machine learning
+- 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me at my email omairmansha@gmail.com
 
 <!---
