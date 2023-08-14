@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Umairchaudhary
 - 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently Data Analysis and machine learning
+- 🌱 I’m currently Working on Data Analysis and machine learning projects
 - 💞️ I’m looking to collaborate on Data analysis projects
 - 📫 How to reach me at my email omairmansha@gmail.com
 
